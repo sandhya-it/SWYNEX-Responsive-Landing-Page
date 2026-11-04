@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Cormorant Garamond", Georgia, serif;
+  --font-sans: "Plus Jakarta Sans", system-ui, -apple-system, sans-serif;
+  
+  --color-ivory: #F8F6F0;
+  --color-forest: #243C32;
+  --color-forest-dark: #192A22;
+  --color-forest-light: #2F4D40;
+  --color-charcoal: #262824;
+  --color-stone: #DCD7CD;
+  --color-taupe: #A69B89;
+  --color-gold: #A68A5B;
+  --color-gold-light: #C4A778;
+}
+
+/* Custom scrollbar and smooth transitions */
+html {
+  scroll-behavior: smooth;
+  font-family: var(--font-sans);
+}
+
+::selection {
+  background-color: #243C32;
+  color: #F8F6F0;
+}
+
+/* Restrained luxury typography helpers */
+.font-display {
+  font-family: var(--font-serif);
+}
+
+.font-body {
+  font-family: var(--font-sans);
+}

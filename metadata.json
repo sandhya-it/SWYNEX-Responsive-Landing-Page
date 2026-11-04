@@ -1,0 +1,6 @@
+{
+  "name": "Wanderlust Travels — Bespoke Journeys & Curated Holidays",
+  "description": "Discover extraordinary destinations, curated travel packages, signature escapes, and personalized holiday planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
