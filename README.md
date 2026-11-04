@@ -102,5 +102,9 @@ The objective of Comfy Travels is to create a visually appealing and user-friend
 
 Suggestions and improvements are welcome. Fork the repository, create a branch, and submit a pull request.
 
+## Demo Video ##
+
+https://swynex-responsive-landing-page-lovat.vercel.app/
+
 
 **Comfy Travels — Discover beautiful places. Travel in comfort. Create unforgettable memories. 🌎**
