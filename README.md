@@ -1,87 +1,78 @@
-# Comfy Travels — Bespoke Journeys & Curated Holidays
+## ✈️ Comfy Travels – Travel & Tourism Platform ##
 
-A production-grade, responsive luxury travel and tourism website built for **Comfy Travels**, a bespoke travel curation brand dedicated to unhurried, comfortable, and meaningful journeys, private escapes, and transformative cultural encounters with transparent Indian Rupee (₹) pricing.
+Comfy Travels is a modern travel and tourism web application that helps users discover beautiful destinations, explore unique experiences, and plan memorable journeys. Featuring a clean, minimal, and luxurious design, it makes travel exploration simple, comfortable, and enjoyable.
 
----
 
-## Brand Ethos & Design Philosophy
+## 🚀 Features
 
-- **Brand:** Comfy Travels
-- **Tagline:** "Travel beautifully. Remember forever."
-- **Aesthetic:** Minimalist luxury, editorial typography, restrained color harmony, and cinematic destination photography.
-- **Currency:** Indian Rupee (₹ INR) for all packages, destination estimates, and inquiry guidelines.
-- **Color Palette:**
-  - Deep Forest Green (`#243C32`) — Primary brand tone & grounding accent
-  - Warm Ivory (`#F8F6F0`) & Pure White (`#FFFFFF`) — Clean, airy surfaces
-  - Charcoal (`#262824`) — High-contrast, readable editorial typography
-  - Warm Stone & Taupe (`#DCD7CD`, `#A69B89`) — Hairline borders and subtle metadata
-  - Antique Gold (`#A68A5B`) — Quiet luxury accents
-- **Typography:**
-  - Heading & Display: **Cormorant Garamond** (Google Fonts)
-  - Body & UI Controls: **Plus Jakarta Sans** (Google Fonts)
+- 🎨 **Modern UI/UX** – Clean layouts with a visually appealing design.
+- 📱 **Responsive Design** – Adapts to desktop, tablet, and mobile screens.
+- 🧭 **Intuitive Navigation** – Simple and user-friendly navigation.
+- ✨ **Interactive Elements** – Engaging buttons and interface components.
+- ⚡ **Optimized Layout** – Structured for a smooth browsing experience.
+- 💻 **Reusable Code** – Organized frontend code for easier maintenance.
 
----
+## 🛠️ Tech Stack
 
-## Key Features & User Experience
+- **Frontend:** HTML, CSS, JavaScript
+- **Design:** Responsive Web Design and UI/UX Principles
+- **Version Control:** Git and GitHub
 
-1. **Top Bar Contract & Responsive Navigation**
-   - Transparent gradient header transitioning to refined solid warm ivory on scroll.
-   - Comfy Travels wordmark, clean single-line navigation links, active section spy, and primary "Plan Your Trip" action.
-   - Fully accessible mobile drawer with keyboard escape and focus containment.
 
-2. **Cinematic Hero**
-   - High-resolution Mediterranean destination photography with contrast scrim.
-   - Fluid responsive typography with `text-wrap: balance`.
-   - "Explore Destinations" & "Plan Your Journey" quick actions.
 
-3. **Travel Search & Trip Planner**
-   - Interactive planner with destination select, calendar departure/return pickers, party size, and travel style.
-   - Client-side date validation (prevents return date earlier than departure date, blocks past dates).
-   - Dynamic sample package matching with prices in Indian Rupees (₹) and direct prefill trigger.
+## 🎯 Project Objective
 
-4. **Curated Destinations Gallery**
-   - 8 marquee destinations across 4 continents (Amalfi Coast, Kyoto, Swiss Alps, Bali, Santorini, Maldives, Marrakech, Patagonia).
-   - Filter tabs: *All Destinations*, *Coast & Islands*, *Culture & Heritage*, *Nature & Mountain*, *Slow Retreats*.
-   - Interactive modal detailing signature stays, best season, ideal pacing, and starting tariffs in ₹ INR.
+The goal of  Comfy Travels is to build a polished, responsive landing page that demonstrates modern frontend development skills, effective visual design, and adaptability across different screen sizes.
 
-5. **Signature Travel Experiences**
-   - 6 pillars: Luxury Escapes, Cultural Discoveries, Adventure & Trekking, Honeymoon Holidays, Family Vacations, and Beach Retreats.
-   - Asymmetric bento-grid layout with marquee card and detailed inclusion modals.
+### Installation
 
-6. **Featured Travel Packages**
-   - Sample itineraries with duration, day-by-day highlights, illustrative tariffs in Indian Rupees (e.g. ₹2,95,000 to ₹5,40,000 / person), and inclusions.
-   - Travel style filtering (Romance, Culture, Mountain, Island, Luxury).
-   - "View Itinerary" and "Plan This Trip" pre-fill triggers.
+1. Clone the repository:
 
-7. **The Comfy Travels Journal**
-   - Magazine-style editorial articles on slow travel, Kyoto moss gardens, island living, and high-alpine valleys.
-   - In-depth reader modal with complete prose and pull quotes.
+   ```bash
+   git clone https://github.com/sandhya-it/SWYNEX-Responsive-Landing-Page.git
+   ```
 
-8. **Why Choose Us & Brand Story**
-   - 6 core pillars of unhurried, comfortable travel and an about section with mission diptych.
+2. Navigate to the project folder:
 
-9. **Validated Travel Inquiry Flow**
-   - Full name, email, phone, destination, dates, travelers, holiday style, budget in ₹ INR, and special notes.
-   - Real-time client validation with accessible feedback and honest prototype confirmation state.
+   ```bash
+   cd SWYNEX-Responsive-Landing-Page
+   ```
 
-10. **Newsletter & Comprehensive Footer**
-    - Email validation with feedback.
-    - Quick navigation, destination links, legal policy dialogs (Privacy, Terms of Curation, Prototype Notice), and dynamic copyright.
+3. Open the project in your preferred code editor.
 
----
+4. Run the application:
+   - For a basic HTML/CSS/JavaScript project, open `index.html` in your browser.
+   - If the project uses a framework or build tool, follow the relevant commands and instructions in `package.json`.
 
-## Local Development
+## 📂 Project Structure
 
-```bash
-# Install dependencies
-npm install
 
-# Start development server
-npm run dev
+SWYNEX-Responsive-Landing-Page/
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+└── README.md
 
-# Build for production
-npm run build
 
-# Run TypeScript checks
-npm run lint
-```
+*The structure above is illustrative. Your actual filenames and folders may differ.*
+
+## 📚 What I Learned
+
+- Building responsive web layouts
+- Applying modern UI/UX design principles
+- Structuring and styling web pages
+- Improving cross-device compatibility
+- Managing project code with Git and GitHub
+
+## 🔮 Future Enhancements
+
+- Add smooth scrolling and refined animations.
+- Improve accessibility and keyboard navigation.
+- Optimize images and loading performance.
+- Enhance interactive components.
+- Add further responsive design refinements.
+
+## 🤝 Contributing
+
+Suggestions and contributions are welcome. Feel free to fork the repository and submit a pull request with improvements.
